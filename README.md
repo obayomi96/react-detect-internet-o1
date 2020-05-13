@@ -25,3 +25,9 @@ export default App;
 
 ### Author
 - Martins Obayomi
+
+### Todo
+- Refactor Webpack to work as a JS library (add peerDependencies)
+- Setup test with travis, circleci and add coverage badges
+- Write test and maintain 99% and above
+- Write more features like routing etc.. that users can get by simply passing a prop
